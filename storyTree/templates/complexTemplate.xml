@@ -1,0 +1,165 @@
+<storygroup>
+	<settings>
+		<storyelement>
+			<name>
+                story
+            </name>
+			<hierachy>
+                0
+            </hierachy>
+			<metadatalist>
+				<key>title</key>
+			</metadatalist>
+		</storyelement>
+		<storyelement>
+			<name>
+                scene
+            </name>
+			<hierachy>
+                1
+            </hierachy>
+			<metadatalist>
+				<key>name</key>
+			</metadatalist>
+		</storyelement>
+		<storyelement>
+			<name>
+                beat
+            </name>
+			<hierachy>
+                2
+            </hierachy>
+			<metadatalist>
+				<key>beatText</key>
+			</metadatalist>
+		</storyelement>
+	</settings>
+	<data>
+		<storyelement>
+			<hierachy>0</hierachy>
+			<metadata>
+				<key>title</key>
+				<value>example title</value>
+			</metadata>
+			<storyelement>
+				<hierachy>1</hierachy>
+				<metadata>
+					<key>name</key>
+					<value>example scene title</value>
+				</metadata>
+				<storyelement>
+					<hierachy>2</hierachy>
+					<metadata>
+						<key>name</key>
+						<value>example scene title</value>
+					</metadata>
+				</storyelement>
+			</storyelement>
+		</storyelement>
+		<storyelement>
+			<hierachy>0</hierachy>
+			<metadata>
+				<key>title</key>
+				<value>example title</value>
+			</metadata>
+			<storyelement>
+				<hierachy>1</hierachy>
+				<metadata>
+					<key>name</key>
+					<value>example scene title</value>
+				</metadata>
+				<storyelement>
+					<hierachy>2</hierachy>
+					<metadata>
+						<key>name</key>
+						<value>example scene title</value>
+					</metadata>
+				</storyelement>
+			</storyelement>
+			<storyelement>
+				<hierachy>1</hierachy>
+				<metadata>
+					<key>name</key>
+					<value>example scene title</value>
+				</metadata>
+				<storyelement>
+					<hierachy>2</hierachy>
+					<metadata>
+						<key>name</key>
+						<value>example scene title</value>
+					</metadata>
+				</storyelement>
+			</storyelement>
+			<storyelement>
+				<hierachy>1</hierachy>
+				<metadata>
+					<key>name</key>
+					<value>example scene title</value>
+				</metadata>
+				<storyelement>
+					<hierachy>2</hierachy>
+					<metadata>
+						<key>name</key>
+						<value>example scene title</value>
+					</metadata>
+				</storyelement>
+			</storyelement>
+			<storyelement>
+				<hierachy>1</hierachy>
+				<metadata>
+					<key>name</key>
+					<value>example scene title</value>
+				</metadata>
+				<storyelement>
+					<hierachy>2</hierachy>
+					<metadata>
+						<key>name</key>
+						<value>example scene title</value>
+					</metadata>
+				</storyelement>
+				<storyelement>
+					<hierachy>2</hierachy>
+					<metadata>
+						<key>name</key>
+						<value>example scene title</value>
+					</metadata>
+				</storyelement>
+				<storyelement>
+					<hierachy>2</hierachy>
+					<metadata>
+						<key>name</key>
+						<value>example scene title</value>
+					</metadata>
+				</storyelement>
+				<storyelement>
+					<hierachy>2</hierachy>
+					<metadata>
+						<key>name</key>
+						<value>example scene title</value>
+					</metadata>
+				</storyelement>
+			</storyelement>
+		</storyelement>
+		<storyelement>
+			<hierachy>0</hierachy>
+			<metadata>
+				<key>title</key>
+				<value>example title</value>
+			</metadata>
+			<storyelement>
+				<hierachy>1</hierachy>
+				<metadata>
+					<key>name</key>
+					<value>example scene title</value>
+				</metadata>
+				<storyelement>
+					<hierachy>2</hierachy>
+					<metadata>
+						<key>name</key>
+						<value>example scene title</value>
+					</metadata>
+				</storyelement>
+			</storyelement>
+		</storyelement>
+	</data>
+</storygroup>
